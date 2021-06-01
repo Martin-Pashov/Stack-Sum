@@ -1,2 +1,2 @@
 # Stack-Sum
-This must be completed!
+This will be finished in the near future. 
