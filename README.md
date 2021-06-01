@@ -1,2 +1,2 @@
 # Stack-Sum
-This has to be filled.
+This must be completed.
